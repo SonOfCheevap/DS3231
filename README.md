@@ -1,3 +1,3 @@
-# DS2321
+# DS3231
 
 For Pi Pico
